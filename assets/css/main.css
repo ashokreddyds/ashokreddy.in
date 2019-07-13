@@ -13,7 +13,7 @@ body {
   line-height: 1.6;
 }
 body.fullscreen-image-background {
-  background-image: url('../img/sliders/slider164df.jpg?1394417052');
+  background-image: url('../img/sliders/bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -5249,14 +5249,14 @@ img.mfp-img {
   font-weight: 300;
 }
 .hero-unit .hero-content .hero-text .hero-heading {
-  font-size: 4em;
+  font-size: 3em;
 }
 .hero-unit .hero-content .hero-text .hero-heading .name {
   border-bottom: 2px solid #fff;
 }
 @media screen and (max-width: 768px) {
   .hero-unit .hero-content .hero-text .hero-heading {
-    font-size: 4em;
+    font-size: 3em;
   }
 }
 @media screen and (max-width: 480px) {
